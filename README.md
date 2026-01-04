@@ -1,23 +1,24 @@
 # Cypress Automation Basic
 
-Projeto de automação de testes End-to-End (E2E) utilizando Cypress, criado com foco em aprendizado e prática de automação de testes.
+End-to-end (E2E) test automation project using Cypress, created for study and portfolio purposes.
 
 ---
 
-## 🧪 Sobre o projeto
+## Project overview
 
-Este projeto contém testes automatizados básicos utilizando Cypress para validar funcionalidades de uma aplicação web, simulando ações reais do usuário.
+This repository contains basic automated tests using Cypress to validate web application functionalities, simulating real user interactions.
 
 ---
 
-## 🚀 Como executar o projeto
+## How to run the project
 
-### Pré-requisitos
-- Node.js instalado
-- Git instalado
+### Prerequisites
+- Node.js
+- Git
 
-### Passo a passo
+### Installation and execution
 
-1. Clone o repositório:
+1. Clone the repository:
 ```bash
 git clone https://github.com/luanasousac/cypress-automation-basic.git
+
