@@ -1,3 +1,4 @@
+
 # Cypress Automation - Login E2E
 
 Este projeto contém testes automatizados end-to-end (E2E) utilizando Cypress.
@@ -24,3 +25,6 @@ Automatizar o fluxo de login de uma aplicação web, validando o acesso à área
 ## Como executar o projeto
 
 1. Clonar o repositório:
+```bash
+git clone https://github.com/luanasousac/cypress-automation-basic.git
+
